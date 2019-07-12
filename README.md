@@ -1,5 +1,25 @@
 # WinningTogether
-This is the repository for an AWC React-Native Project to run on windows, ios, and android devices
+an AWC React-Native Project to run on windows, ios, and android devices
+
+# General Notes
+
+The setup to get three platforms winning together in a single project was quite extensive.
+the full requirements to run all three types:
+  
+  A windows computer with windows build 10.0.18630^
+  A macBook with Xcode
+  ios or android device (optional)
+
+  Visual Studio 2019
+  Android Studio
+  
+  be able to navigate unix and cmd terminals
+
+  much more. I'll provide links to more resources, but those are the starting points
+
+iOS development has to be run on a mac, and windows dev needs to be on windows. sharing code between the two dev devices seems ot work fine, but you do need to run an extra command because each device creates a different and incompatible transform cache. run '''npm start -- --reset-cache''' to clean it out. I think technically this cache could be added to gitignore, but im not actually sure where its stored
+
+development on windows is the most difficult/restrictive, so maybe start there and hope for the best
 
 # Installation
 

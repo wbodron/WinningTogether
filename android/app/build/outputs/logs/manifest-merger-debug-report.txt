@@ -5,6 +5,7 @@ INJECTED from C:\Users\wbodron\Documents\ReactNative\WinningTogether\android\app
 INJECTED from C:\Users\wbodron\Documents\ReactNative\WinningTogether\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Users\wbodron\Documents\ReactNative\WinningTogether\android\app\src\main\AndroidManifest.xml:1:1-26:12
 MERGED from C:\Users\wbodron\Documents\ReactNative\WinningTogether\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] C:\Users\wbodron\Documents\ReactNative\WinningTogether\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.59.0] C:\Users\wbodron\.gradle\caches\transforms-1\files-1.1\react-native-0.59.0.aar\90d9d0b53b8242f2c0993042ea44ff6f\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\wbodron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d988be4b8e6f2ecea32f078d765fe329\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wbodron\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\5b463c5324e1cb6438d242f9797dd720\AndroidManifest.xml:17:1-22:12
@@ -129,6 +130,8 @@ uses-sdk
 INJECTED from C:\Users\wbodron\Documents\ReactNative\WinningTogether\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\wbodron\Documents\ReactNative\WinningTogether\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\wbodron\Documents\ReactNative\WinningTogether\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] C:\Users\wbodron\Documents\ReactNative\WinningTogether\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\wbodron\Documents\ReactNative\WinningTogether\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.0] C:\Users\wbodron\.gradle\caches\transforms-1\files-1.1\react-native-0.59.0.aar\90d9d0b53b8242f2c0993042ea44ff6f\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.0] C:\Users\wbodron\.gradle\caches\transforms-1\files-1.1\react-native-0.59.0.aar\90d9d0b53b8242f2c0993042ea44ff6f\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\wbodron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d988be4b8e6f2ecea32f078d765fe329\AndroidManifest.xml:20:5-44
