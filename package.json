@@ -10,7 +10,7 @@
     "react": "16.8.3",
     "react-native": "^0.59.0",
     "react-native-gesture-handler": "^1.3.0",
-    "react-native-windows": "^0.59.0-vnext.84",
+    "react-native-windows": "^0.70.4",
     "react-navigation": "^3.11.0"
   },
   "devDependencies": {
